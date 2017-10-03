@@ -69,6 +69,6 @@ dependencies {
 
 war {
 
-archiveName 'demoportalv2.war'
+archiveName 'demoportal.war'
 }
 
