@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen{
+	.printonly{display:none !important;}
+	.noprint{display:auto !important}
+	.docfooter{display:none !important}
+}
+@media print{
+	.printonly{display:auto; !important}
+	.noprint,.noprint a,.noprint p, .noprint div{display:none !important}	
+	body{padding:0px !important; max-width:100%;}
+	.panel-heading{background:#EEE !important}
+	.fixedheader{display:none}
+	footer{display:none}
+	.main{margin:0px !important}
+	div{margin:0px !important; padding:0px !important}
+	.document{
+		padding:0em !important; 
+		margin:0em !important;
+		box-shadow:none;
+		font-size:12px;line-height:16px;;display:block; position:absolute; page-break-inside:auto;}
+}

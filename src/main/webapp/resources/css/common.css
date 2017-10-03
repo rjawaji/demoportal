@@ -1,0 +1,138 @@
+.control-label {
+  font-size: 12px;
+}
+
+
+.form-horizontal .control-label {
+  text-align: left;
+}
+
+	
+form .form-group { 
+/* .form-group { */
+    margin-bottom: 5px; /* to adjust space between 2 inputs vertical */
+}
+
+	
+.mfa-jumbotron {
+  float:left;
+  width:95%;
+  background-color:#efeee7;
+  font-size: 27px;
+}
+
+.verification-header /* space between phone and verification header */
+{
+  padding-bottom:15px;
+  color: #4682B4;
+}
+
+.gi-2x {
+  font-size: 2em;
+}
+
+ .page-header{
+	 color:#4682B4;
+} 
+
+.lead{
+	color:#4682B4;
+}
+.textbox {
+	text-align: justify;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:5px;
+	padding-left:10px;
+	border: 2px solid #d7d2be;	
+}
+
+
+
+.custom-combobox {
+	position: relative;
+	display: inline-block;
+}
+		
+.custom-combobox-toggle {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin-left: -1px;
+	padding: 0;
+}
+
+.custom-combobox-input {
+	margin: 0;
+	padding: 5px 10px;
+}
+.mfaInfo{
+	color:#009933;
+	font:0.90em bold Verdana;
+}
+
+.smsrates{
+	display:block;
+	font:0.90em bold Verdana;
+	color:red;
+	margin:5px 50px 0"
+}
+
+.required{
+	color:red;
+}
+
+.ui-datepicker-calender{
+	display:none;
+}
+
+  
+
+#effectiveDate.ui-datepicker-prev { 
+	display: none; 
+	} 
+  
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body .ui-tooltip {
+	border-width: 7px;
+	font-size: small;
+	padding: 6px;
+}  
+
+.mfaVerticalAlign {
+	vertical-align:super;
+}
+
+.mfaAdjustCss {
+	margin-bottom: 270px !important;
+}
+
+.sticky-footer {
+		position: absolute;
+		left: 0;
+		bottom: 0;
+		width: 100%;
+}
+
+.mfaBtn {
+		border-radius: 10px;
+		font-weight: bold;
+		height: 30px;
+		width: 80px;
+		border-bottom: 0;
+}
+
+.verticalMiddleAlign {
+	vertical-align: middle;
+}
+.hideDiv{
+	display:none;
+}
+
+.floatLeft {
+	float: left;
+}

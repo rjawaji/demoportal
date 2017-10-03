@@ -1,0 +1,34 @@
+
+.jumbotronInline {
+  background:url(../imgs/rrsign5.jpg?1234);
+   background-size:cover; 
+   background-position:center; 
+   background-repeat:no-repeat; 
+   margin-bottom:0px; min-height:70%; 
+   box-shadow:inset 0px -5px 50px #000;
+   padding-bottom:70px;
+}
+.loginContainercDiv{padding-top:1.5em; padding-bottom:1em; background:rgba(255,255,255,.75); border-bottom-left-radius:1em; border-bottom-right-radius:1em;}
+.loginUserId{width:100%; margin-bottom:.5em}
+.loginPassword{	width:100%; margin-bottom:.5em}
+.loginSubmit{width:100%; margin-bottom:.5em}
+.loginRegister{	width:100%;}
+.features{padding-top:1em}
+.features>div{ background:rgba(255,255,255,.75); margin-bottom:1em; padding:0em 1em;}
+.features div:hover {cursor:pointer}
+.features div:hover .symbol{color:#006f95}
+.features div:hover .banner{background:#006f95}
+.features .symbol{font-size:5em;color:#004357;}
+.features .symbol span:not(:first-of-type){position:absolute; top:-3px; left:5px;}
+.loginp1{font-size:1em; font-weight:bold}
+.loginp2{font-size:1em}
+.loginCurrentUser{margin-top:0px;}
+.loginNewUser{margin-top:0px;}
+.loginSpan1{margin-left:0px;margin-top:0px;}
+.loginSpan2{transform:rotate(-85deg);}
+.logintd1{padding-left:1em}
+.loginth41{margin-bottom:0px}
+.loginp3{font-size:14px}
+.loginp4{font-weight:bold}
+.passwordResetAdjustCss{margin-bottom: 400px}
+.marginzero{margin-right:0px !important} 
